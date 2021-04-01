@@ -1,0 +1,22 @@
+.card{
+	color: #ffff;
+	text-align: center;
+	background-color: black;
+}
+
+.thumbnail{
+	border: none;
+	position: relative;
+}
+
+.bar{
+  color:#ffff;
+  text-align: center;
+  background-color:black;
+  top: 0;
+  right:0;
+  font-size: 1.1rem;
+  position: absolute;
+  height: 25px
+  weight:25px
+}
